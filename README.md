@@ -10,9 +10,9 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-ANDRÉ AZEVEDO FERREIRA CARVALHO
-MARLON STTEFANE GUIMARÃES SILVA
-RANIEL ADRIANO DE SOUZA ARAÚJO
+* ANDRÉ AZEVEDO FERREIRA CARVALHO
+*  MARLON STTEFANE GUIMARÃES SILVA 
+* RANIEL ADRIANO DE SOUZA ARAÚJO
 
 ## Orientador
 
