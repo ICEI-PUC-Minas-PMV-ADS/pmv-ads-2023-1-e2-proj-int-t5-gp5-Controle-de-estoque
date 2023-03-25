@@ -13,17 +13,17 @@ empreendedores de peque e média empresa, podendo também abranger para
 empreendimentos grandes também. Segue exemplos de usuários fictícios que 
 necessitam da utilização do sistema:
 
-Foto
+![Personas](img/persona 1.jpg)
 Clara Silva, 25 anos, empresária de uma loja de roupas. 
 Motivação: busca por uma ferramenta que facilite a gestão de seu estoque, pedidos 
 e clientes de forma mais ágil e eficiente.
 
-Foto
+![Personas](img/persona 2.jpg)
 Pedro Alves, 30 anos, dono de um supermercado.
 Motivação: busca por uma plataforma que permita o gerenciamento de estoque, 
 preços, pedidos e promoções de forma simplificada e integrada.
 
-Foto
+![Personas](img/persona 3.jpg)
 Lucas Oliveira, 22 anos, microempreendedor. 
 Motivação: busca por uma plataforma que possibilite ter uma gestão financeira mais 
 alinhada com o ideal para sua microempresa. Além disso, ele trabalha com muitos 
@@ -32,7 +32,7 @@ produtos diferentes e precisa ter um controle sob seu estoque.
 
 ## Histórias de Usuários
 
-FOTO HISTORIAS AQ
+![Historias de Usuário](img/historias de usuarios.jpg)
 
 
 ## Requisitos
@@ -42,11 +42,11 @@ funcionais que são apresentados a seguir.
 
 ### Requisitos Funcionais
 
-FOTO REQUISITOS AQ
+![Requisitos Funcionais](img/Requisitos funcionais.png)
 
 ### Requisitos não Funcionais
 
-FOTO REQUISITOS AQ
+![Requisitos Não Funcionais](img/requisitos nao funcionais.png)
 
 ## Restrições
 
@@ -54,15 +54,15 @@ As questões que limitam a execução desse projeto e que se configuram como
 obrigações claras para o desenvolvimento do projeto em questão são apresentadas 
 na tabela a seguir.
 
-FOTO AQ
+![Restrições](img/restricoes.png)
 
 ## Diagrama de Casos de Uso
 
 O diagrama contempla as principais ligações previstas entre casos de uso e atores 
 e permite detalhar os Requisitos Funcionais identificados na etapa de licitação.
 
-FOTO AQ
-FOTO AQ
-FOTO AQ
+![UML](img/caso de uso 1.png)
+![UML](img/caso de uso 2.png)
+![UML](img/caso de uso 3.png)
 
 
