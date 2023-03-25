@@ -46,7 +46,7 @@ funcionais que são apresentados a seguir.
 
 ### Requisitos não Funcionais
 
-![Requisitos Não Funcionais](img/requisitos nao funcionais.png)
+![Requisitos Não Funcionais](img/requisitos nao funcionais.jpg)
 
 ## Restrições
 
@@ -54,15 +54,15 @@ As questões que limitam a execução desse projeto e que se configuram como
 obrigações claras para o desenvolvimento do projeto em questão são apresentadas 
 na tabela a seguir.
 
-![Restrições](img/restricoes.png)
+![Restrições](img/restricoes.jpg)
 
 ## Diagrama de Casos de Uso
 
 O diagrama contempla as principais ligações previstas entre casos de uso e atores 
 e permite detalhar os Requisitos Funcionais identificados na etapa de licitação.
 
-![UML](img/caso de uso 1.png)
-![UML](img/caso de uso 2.png)
-![UML](img/caso de uso 3.png)
+![UML](img/caso de uso 1.jpg)
+![UML](img/caso de uso 2.jpg)
+![UML](img/caso de uso 3.jpg)
 
 
