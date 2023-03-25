@@ -4,7 +4,6 @@
 `Projeto: Desenvolvimento de uma Aplicação Interativa`
 
 `1º semestre de 2023 - Eixo 2 - Turma 5`
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 * ANDRÉ AZEVEDO FERREIRA CARVALHO
