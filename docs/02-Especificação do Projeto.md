@@ -13,17 +13,17 @@ empreendedores de peque e média empresa, podendo também abranger para
 empreendimentos grandes também. Segue exemplos de usuários fictícios que 
 necessitam da utilização do sistema:
 
-![Personas](img/persona 1.jpg)
+![Personas](img/persona1.jpg)
 Clara Silva, 25 anos, empresária de uma loja de roupas. 
 Motivação: busca por uma ferramenta que facilite a gestão de seu estoque, pedidos 
 e clientes de forma mais ágil e eficiente.
 
-![Personas](img/persona 2.jpg)
+![Personas](img/persona2.jpg)
 Pedro Alves, 30 anos, dono de um supermercado.
 Motivação: busca por uma plataforma que permita o gerenciamento de estoque, 
 preços, pedidos e promoções de forma simplificada e integrada.
 
-![Personas](img/persona 3.jpg)
+![Personas](img/persona3.jpg)
 Lucas Oliveira, 22 anos, microempreendedor. 
 Motivação: busca por uma plataforma que possibilite ter uma gestão financeira mais 
 alinhada com o ideal para sua microempresa. Além disso, ele trabalha com muitos 
@@ -32,7 +32,7 @@ produtos diferentes e precisa ter um controle sob seu estoque.
 
 ## Histórias de Usuários
 
-![Historias de Usuário](img/historias de usuarios.jpg)
+![Historias de Usuário](img/historiasdeusuarios.jpg)
 
 
 ## Requisitos
@@ -42,11 +42,11 @@ funcionais que são apresentados a seguir.
 
 ### Requisitos Funcionais
 
-![Requisitos Funcionais](img/Requisitos funcionais.png)
+![Requisitos Funcionais](img/requisitosfuncionais.jpg)
 
 ### Requisitos não Funcionais
 
-![Requisitos Não Funcionais](img/requisitos nao funcionais.jpg)
+![Requisitos Não Funcionais](img/requisitosnaofuncionais.jpg)
 
 ## Restrições
 
@@ -61,8 +61,8 @@ na tabela a seguir.
 O diagrama contempla as principais ligações previstas entre casos de uso e atores 
 e permite detalhar os Requisitos Funcionais identificados na etapa de licitação.
 
-![UML](img/caso de uso 1.jpg)
-![UML](img/caso de uso 2.jpg)
-![UML](img/caso de uso 3.jpg)
+![UML](img/casodeuso1.jpg)
+![UML](img/casodeuso2.jpg)
+![UML](img/casodeuso3.jpg)
 
 
