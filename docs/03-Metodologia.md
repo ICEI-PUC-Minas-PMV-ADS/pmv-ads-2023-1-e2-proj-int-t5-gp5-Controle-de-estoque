@@ -92,10 +92,3 @@ As ferramentas empregadas no projeto são:
 | Comunicação | Microsoft Teams para comunicação ao vivo e via Whatsapp para troca de informações.|
 |Desenho e Prototipação| As Ferramentas de desenho de tela (_wireframing_), será utilizado Marvel.app |
 | Organogramas e Fluxogramas | ........... |
-
-
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
