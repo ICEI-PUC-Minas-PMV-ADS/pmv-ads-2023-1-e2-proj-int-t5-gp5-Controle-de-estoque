@@ -1,10 +1,15 @@
 # ÁGILFORNEC
 
-`Análise e Desenvolvimento de Sistemas`
+`CURSO`
+Analise e Desenvolvimento de Sistemas
 
-`Projeto: Desenvolvimento de uma Aplicação Interativa`
+`DISCIPLINA`
+Projeto: Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio
 
-`1º semestre de 2023 - Eixo 2 - Turma 5`
+`SEMESTRE`
+2º Semestre
+
+Criação de uma aplicação com a premissa da gestão e operação do sistema de controle de estoque, permitindo o registro, o gerenciamento e a emissão de relatórios diretamente na aplicação.
 
 ## Integrantes
 * ANDRÉ AZEVEDO FERREIRA CARVALHO
