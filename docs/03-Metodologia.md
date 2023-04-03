@@ -86,10 +86,6 @@ Para a organzação e distribuição  das tarefas optamos por utilizar o GitHub 
 
 As ferramentas empregadas no projeto são:
 
-### Ferramentas
-
-As ferramentas empregadas no projeto são:
-
 |FERRAMENTA `(Solução Tecnologica)`| SOLUÇÃO ... `(Descrição das ferramentas utilizadas)` |
 |--------------------|-----------------------------------|
 | Editor de Código | IDE utilizada no desenvolvimento será o VScode.|
