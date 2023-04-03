@@ -74,7 +74,7 @@ Apresente a divisão de papéis entre os membros do grupo.
 
 Para a organzação e distribuição  das tarefas optamos por utilizar o GitHub Projects disponibilizado pelo GitHub. Pode ser acessado através do link:(<https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/334>):
 
-|ETAPA | Detalhamento da etapa do processo |
+|ETAPA | DETALHAMENTO DA ETAPA DO PROCESSO |
 |--------------------|----------|
 | PRODUCT BACKLOG: | lista de tarefas e funcionalidades a serem implementadas no projeto. Todas as atividades identificadas ao longo do projeto devem ser incorporadas a esta lista.; |
 | TO DO: | Este é o Sprint atual que estamos trabalhando; |
