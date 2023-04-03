@@ -1,9 +1,21 @@
-
 # Metodologia
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+Nossa metodologia contempla a definição das ferramentas utilizadas pela nossa equipe tanto para o desenvolvimento quanto para a manutenção ou organização do time na execução das tarefas do projeto.
+
+Nosso projeto de inteface está sendo desenvolvido através do site marvelapp, no acesso ao site ou app teremos uma breve ilustração do design do projeto, podendo a todo momento ter eventuais alterações ou novos incrementos por ainda está em processo de desenvolvimento.
+
+Nossa ferramenta principal para criar os tópicos citados acima será o GitHub, que através deste repositótio será armazenado toda a manutenção dos códigos. Também será usado para gerenciamento de backlog do produto, tudo será contido através da pasta doc encontrada dentro do respositório do projeto .all.
+
+# Relação de Ambientes de Trabalho
+
+| Ambiente | Plataforma | Link de Acesso |
+--------- | ---------- |  -------------  |
+| Repositório de código fonte | GitHub | <https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t5-gp5-Controle-de-estoque>   |
+| Documentos do projeto | GitHub | <https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t5-gp5-Controle-de-estoque/edit/main/docs> |
+| Projeto de Interface e  Wireframes  | Lucid Chart e Marvelapp | <https://marvelapp.com/> |
+| Gerenciamento do Projeto | GitHub Projects | <https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/334/> |
 
 ## Controle de Versão
 
@@ -35,9 +47,21 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 > - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
 > - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
 
-## Gerenciamento de Projeto
-
 ### Divisão de Papéis
+A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
+
+### Scrum Master
+
+- André Azevedo Ferreira Carvalho
+
+### Product Owner
+
+- Raniel Adriano de Souza Araújo
+### Equipe de desenvolvimento
+
+- Marlon Sttefane Guimarães Silva
+- André Azevedo Ferreira Carvalho
+- Raniel Adriano de Souza Araújo
 
 Apresente a divisão de papéis entre os membros do grupo.
 
@@ -48,27 +72,31 @@ Apresente a divisão de papéis entre os membros do grupo.
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
- 
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+Para a organzação e distribuição  das tarefas optamos por utilizar o GitHub Projects disponibilizado pelo GitHub. Pode ser acessado através do link:(<https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/334>):
+
+|ETAPA | Detalhamento da etapa do processo |
+|--------------------|----------|
+| PRODUCT BACKLOG: | lista de tarefas e funcionalidades a serem implementadas no projeto. Todas as atividades identificadas ao longo do projeto devem ser incorporadas a esta lista.; |
+| TO DO: | Este é o Sprint atual que estamos trabalhando; |
+| FAZENDO:| Tarefas que estão em andamento; |
+| AVALIAÇÃO:| Tarefas aguardando serem avaliadas para aprovação final; |
+| FEITO:| São as tarefas já finalizadas que podem ou não passar por atualizações durante o desenvolvimento do projeto. |
 
 ### Ferramentas
 
 As ferramentas empregadas no projeto são:
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
+### Ferramentas
 
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
+As ferramentas empregadas no projeto são:
+
+|FERRAMENTA `(Solução Tecnologica)`| SOLUÇÃO ... `(Descrição das ferramentas utilizadas)` |
+|--------------------|-----------------------------------|
+| Editor de Código | IDE utilizada no desenvolvimento será o VScode.|
+| Comunicação | Microsoft Teams para comunicação ao vivo e via Whatsapp para troca de informações.|
+|Desenho e Prototipação| As Ferramentas de desenho de tela (_wireframing_), será utilizado Marvel.app |
+| Organogramas e Fluxogramas | ........... |
+
 
 Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
  
