@@ -19,25 +19,26 @@
  * Para acessar o Inreframe Interativo Clique no link a seguir: https://marvelapp.com/prototype/6ae25ga/screen/91248232
  
  Telas do Wireframe estáticas:
-*Login
+ 
+* Login
 ![Image1](https://user-images.githubusercontent.com/34043545/230744920-2d296427-d3d8-4daa-8efc-033a7d6ffcb8.jpg)
-*Tela principal
+* Tela principal
 ![Image2](https://user-images.githubusercontent.com/34043545/230744927-57348ca1-8da2-4527-bce3-eeccfcc86526.jpg)
-*Gestão de Estoque
+* Gestão de Estoque
 ![Image3](https://user-images.githubusercontent.com/34043545/230744936-d852f8f7-1edf-4908-b313-39f217163ab6.jpg)
-*Gestão de Estoque (msg)
+* Gestão de Estoque (msg)
 ![Image4](https://user-images.githubusercontent.com/34043545/230744951-828555bc-fb13-4590-acd2-6d41d4d0d706.jpg)
-*Gestão de Estoque pedido de reposição (msg)
+* Gestão de Estoque pedido de reposição (msg)
 ![Image5](https://user-images.githubusercontent.com/34043545/230744964-91b406fc-ad65-47dc-ba01-e8250396cef0.jpg)
-*Visualização de Dashboard
+* Visualização de Dashboard
 ![Image6](https://user-images.githubusercontent.com/34043545/230744993-1b60e8de-a99e-4cb1-bba5-cf98692f7ab6.jpg)
-*Upload de Arquivos
+* Upload de Arquivos
 ![Image7](https://user-images.githubusercontent.com/34043545/230745002-7656d896-b58b-4912-a2c7-da42fd20fb92.jpg)
-*Cadastro de User/Empresa
+* Cadastro de User/Empresa
 ![Image8](https://user-images.githubusercontent.com/34043545/230745005-78d32014-01bf-496f-9b26-94fe6f951222.jpg)
-*Cadastro de Usuário
+* Cadastro de Usuário
 ![Image9](https://user-images.githubusercontent.com/34043545/230745009-dd68b6dc-e2d8-4556-af0c-97254df293d1.jpg)
-*Cadastro de Empresa Filial
+* Cadastro de Empresa Filial
 ![Image10](https://user-images.githubusercontent.com/34043545/230745014-3e97a13b-e006-4c7a-958c-262082b91c67.jpg)
 
  
