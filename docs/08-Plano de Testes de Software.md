@@ -2,6 +2,70 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
 
+**Objetivos dos testes:**
+
+Analisar o uso do software ÁGILFORNEC <br />
+Identificar problemas de usabilidade e propor soluções <br />
+Analisar se o software atende às necessidades dos usuários <br />
+Melhorar a experiência do usuário com o software
+
+**Estratégia de teste:**
+
+Teste de usabilidade: realizar testes com usuários reais para avaliar a usabilidade do software ÁGILFORNEC atrás vez dos Softwares de tecnicas de ClickStream, com os dados fornecidos pelo Azure Stream Analytics <br />
+Observação direta: observar o comportamento do usuário durante os testes para identificar problemas de usabilidade <br />
+Formulario: Disponibilizar um formulario no final do teste para coletar feedback adicional sobre a usabilidade do software
+
+**Plano de teste:**
+
+Selecionar um grupo de usuários semelhantes ao público-alvo do software ÁGILFORNEC <br />
+Os usuarios beta-tester, teram que realizar uma lista de tarefas específicas que os usuários devem realizar no software <br />
+Coletar feedback dos usuários após os testes na realização de um formulario
+
+**Ferramentas de teste:**
+
+Ferramentas para a realização do teste:
+
+Azure Stream Analytics <br />
+Azure Data Factory
+
+
+**Responsabilidades** <br />
+
+Equipe de teste: responsável por selecionar e preparar candidatos e conduzi-los os usuarios passando intruções de atividades<br />
+Equipe de desenvolvimento: atra vez dos dados coletados devem propor soluçoes que sejam pertinente aos dados para melhoria de uso do sistema<br />
+
+**Critérios de aceitação:**
+
+Os usuários tem que possuir alguma caracteristicas do publico-alvo para serem considerados validos <br />
+Os usuários devem realizar a lista de tarefas designadas a eles <br />
+Os usuários devem ser capazes de realizar as tarefas propostas com facilidade e sem ajuda externa <br />
+Os usuários devem fornecer feedback sobre a usabilidade do software após os testes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
 
 Não deixe de enumerar os casos de teste de forma sequencial e de garantir que o(s) requisito(s) associado(s) a cada um deles está(ão) correto(s) - de acordo com o que foi definido na seção "2 - Especificação do Projeto". 
