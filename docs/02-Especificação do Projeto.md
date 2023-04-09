@@ -64,10 +64,7 @@ na tabela a seguir.
 O diagrama contempla as principais ligações previstas entre casos de uso e atores 
 e permite detalhar os Requisitos Funcionais identificados na etapa de licitação.
 
-![UML](img/casodeuso.jpg)
+![UML](img/DiagramaCasoDeUso.jpg)
 
-![UML](img/casodeuso2.jpg)
-
-![UML](img/casodeuso3.jpg)
 
 
