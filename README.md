@@ -54,4 +54,5 @@ como o MYSQL, promovendo um ambiente seguro, confiável, moderno e eficiente.
 
 # Apresentação
 
+https://www.youtube.com/watch?v=ZZ96PVH40Ic
 <li><a href="presentation/README.md"> Apresentação da solução</a></li>
