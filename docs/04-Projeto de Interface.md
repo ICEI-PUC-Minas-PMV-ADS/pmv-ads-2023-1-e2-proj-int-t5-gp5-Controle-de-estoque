@@ -5,8 +5,6 @@
 
  Apresentamos aqui as principais interfaces da plataforma. Elas foram elaboradas de forma a atender os requisitos funcionais, não funcionais e histórias de usuário previamente estabelecidos.
  
-## Diagrama de classes
-![Image](https://user-images.githubusercontent.com/34043545/230744439-e7abf60f-9760-4d88-8af4-4388da44621d.jpg)
 
 ## Diagrama de Fluxo
  O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema.
