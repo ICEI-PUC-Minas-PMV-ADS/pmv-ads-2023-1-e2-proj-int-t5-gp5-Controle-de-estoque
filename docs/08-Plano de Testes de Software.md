@@ -5,15 +5,15 @@
 **Objetivos dos testes:**
 
 Analisar o uso do software ÁGILFORNEC <br />
-Identificar problemas de usabilidade e propor soluções <br />
+Garantir a confiabilidade e a segurança do sistema <br />
 Analisar se o software atende às necessidades dos usuários <br />
 Melhorar a experiência do usuário com o software
 
-**Estratégia de teste:**
+**O Sistema AgilFornec**
 
-Teste de usabilidade: realizar testes com usuários reais para avaliar a usabilidade do software ÁGILFORNEC atrás vez dos Softwares de tecnicas de ClickStream, com os dados fornecidos pelo Azure Stream Analytics <br />
-Observação direta: observar o comportamento do usuário durante os testes para identificar problemas de usabilidade <br />
-Formulario: Disponibilizar um formulario no final do teste para coletar feedback adicional sobre a usabilidade do software
+Este projeto tem como objetivo conseguir administar estoque de uma empresa e de suas filiais espalhadas por várias regiões. <br />
+Para atingir esse propósito esta ferramenta irá criar e administrar um banco de dados que possibiltará armazenar informações necessárias <br />
+para o controle de estoque.
 
 **Plano de teste:**
 
