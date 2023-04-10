@@ -14,7 +14,7 @@ Nossa ferramenta principal para criar os tópicos citados acima será o GitHub, 
 --------- | ---------- |  -------------  |
 | Repositório de código fonte | GitHub | <https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t5-gp5-Controle-de-estoque>   |
 | Documentos do projeto | GitHub | <https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t5-gp5-Controle-de-estoque/edit/main/docs> |
-| Projeto de Interface e  Wireframes  | Marvelapp | <https://marvelapp.com/> |
+| Projeto de Interface e  Wireframes  | Marvelapp | <https://marvelapp.com/prototype/6ae25ga/screen/91248232> |
 | Gerenciamento do Projeto | GitHub Projects | <https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/334/> |
 
 ## Controle de Versão
