@@ -93,9 +93,9 @@ Os usuários devem fornecer feedback sobre a usabilidade do software após os te
 |  	|  	|
 | Caso de Teste 	| CT-09 – Emitir relatorio	|
 |Requisito Associado | RF-00Y	- A aplicação deve possuir opção de fazer login, sendo o login o endereço de e-mail. |
-| Objetivo do Teste 	| Verificar se o usuário consegue realizar login. |
+| Objetivo do Teste 	| Verificar se o usuário consegue Emitir relatorio. |
 | Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://marvelapp.com/prototype/6ae25ga/screen/91248461<br> -Realizar login <br> - Entrar na pagia de "Visualizar Dashbords" <br> - selecionar parametros<br> - Gerar relatorio
-|Critério de Êxito | - O login foi realizado com sucesso. |
+|Critério de Êxito | - Relatorio gerado exibido com sucesso. |
 
 
 
