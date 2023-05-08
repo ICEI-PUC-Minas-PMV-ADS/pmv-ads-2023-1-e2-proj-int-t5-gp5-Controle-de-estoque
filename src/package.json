@@ -1,0 +1,28 @@
+{
+  "name": "aplicacao-interativa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranielAraujo/Aplicacao-Interativa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranielAraujo/Aplicacao-Interativa/issues"
+  },
+  "homepage": "https://github.com/ranielAraujo/Aplicacao-Interativa#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+  
+}

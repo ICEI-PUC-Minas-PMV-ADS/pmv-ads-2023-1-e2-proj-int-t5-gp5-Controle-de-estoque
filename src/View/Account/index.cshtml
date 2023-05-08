@@ -1,0 +1,31 @@
+@{
+  ViewBag.Title = "Login";
+  Layout = "~/View/layout.cshtml";
+}
+<section class="container" id="tela-login">
+  <h1>Sistema Agilfornec</h1>
+  <div class="box-padrao" id="campo-login">
+    <h2>Login</h2>
+    <form id="form" action="Verify" method="post">
+      <div class="box-cred-login" id="box-usuario">
+        <label for="input1">Input 21</label>
+        <input type="text" id="input1" name="input1">
+      </div>
+      <div class="box-cred-login" id="box-senha">
+        <label for="input2">Input 2</label>
+        <input type="password" id="input2" name="input2">
+      </div>
+      <div class="box-cred-login" id="box-empresa">
+        <label for="input3">Input 3</label>
+        <input list="filiais" id="input3" name="input3">
+        <datalist id="filiais">
+          <option value="Matriz"></option>
+          <option value="Contagem"></option>
+          <option value="Belo Horizonte"></option>
+          <option value="Nova Lima"></option>
+        </datalist>
+      </div>
+      <button type="submit">Enviar</button>
+    </form>
+  </div>
+</section>
